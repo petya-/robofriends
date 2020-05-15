@@ -1,0 +1,1 @@
+export const CHAGE_SEARCH_FIELD = "CHAGE_SEARCH_FIELD";
